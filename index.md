@@ -1,3 +1,4 @@
+![Rita](https://user-images.githubusercontent.com/106407013/172977960-b3e9083e-3515-443c-8627-1a3636c1bec9.jpg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RitaDee/CV1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
